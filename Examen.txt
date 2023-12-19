@@ -1,0 +1,74 @@
+Beginnen met opdrachtsomschrijving
+Alternatieven noemen, wel weatherhat en raspberry gebruiken
+Logboek
+aantonen dat je kennis hebt doormiddel van opdrachtsomschrijving(plan van aanpak), daarna pas beginnen met examen project.
+
+
+Technische tekeningen voldoen aan nen normen
+
+Urenregistratie
+
+Schema's en flowcharts
+
+Beveiliging, eduroam kan niet worden gebruikt daarom TP_LINK. Eduroam blokeerd.
+
+Stroomvoorziening als er geen stroom beschikbaar is zoals zonnepaneel met een accu,
+dit moet in de opdrachtsomschrijving voordat je begint met het project, ook eerst vragen waar hij geplaats moet worden. 
+Op een dak kan bijvoorbeeld prima via een kabel. Op een veld niet.
+
+
+Stroomdiagram tekenen project (fritzing bijvoorbeeld)
+
+50 euro tarief.
+
+onderdelen onderzoek:
+- microprocesor
+- sensoren
+- server
+- adapter
+- display
+- programmeer taal
+
+
+Kostenberekeningen:
+- Materialen
+- Uren
+- Onderzoekskosten
+- Testen
+- Onverwachte kosten
+
+Eerste dingen te doen:
+- Opdrachtsomschrijving
+- Plan van aanplak/Planning!
+- Voorcalculatie
+
+Functioneel ontwerp
+- Hoofd en deelfuncties
+- Flowchart hardware (server, sproeier, 
+- Flowchart software
+- Zonnepanelen?, accu?, netwerk?
+- Bevestiging/montage.
+
+
+Technisch ontwerp:
+- Plan van aanpak verwijzen
+- Kosten calculatie verwijzen
+- Stroomschema
+- Software / flowchart
+- Tekeningen
+- Testrapport
+- Normen
+- Logboek / planning / versies
+- Materialen (gebruikswijze)
+- Bronnen
+- Aanbevelingen
+
+
+STAP 1:
+- Opdrachtsomschrijving
+- Programma van eisen
+- Kostenberekening
+
+STAP 2:
+- Digitale map
+- Aanbevelingen: Zonnepanelen (stroom) SIM kaart (opslaan als er geen internet is) Hoe en hoeveel het extra gaat kosten.

@@ -1,0 +1,32 @@
+Weather hat raspberry programma
+
+1. git clone https://github.com/pimoroni/weatherhat-python 
+
+2. cd weatherhat-python
+
+3. sudo ./install.sh
+
+4. sudo pip3 install fonts font-manrope pyyaml adafruit-io numpy
+
+
+5. cd weatherhat-python/examples
+
+Om het programma uit te voeren:
+python weather.py
+
+
+
+Waar ik de code nu in gemaakt heb:
+Pimoroni/weatherhat/examples/
+
+
+Instellingen voor de weather hat:
+i2c: sudo raspi-config nonint do_i2c 0
+spi: sudo raspi-config nonint do_spi 0
+
+
+Python pip error:
+sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
+
+MYSQL:
